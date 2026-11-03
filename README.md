@@ -15,17 +15,11 @@ Portfólio pessoal de desenvolvimento web, com projetos desenvolvidos em HTML, C
 - `imagem/`: imagens utilizadas no portfólio.
 
 ## Projetos
-O portfólio apresenta projetos autorais e demonstrativos, incluindo:
 - Aura Estética
 - Glow Up
-
-## Personalização
-As informações de contato e os links dos projetos podem ser configurados no arquivo `script.js`, por meio do objeto `CONFIG`.
 
 ## Executar localmente
 Abra o arquivo `index.html` no navegador ou utilize a extensão Live Server do VS Code.
 
 ## Publicação
-Este projeto pode ser publicado gratuitamente na Vercel, conectado diretamente ao repositório do GitHub.
-
-Como é um site estático, não necessita de comando de build.
+Projeto estático que pode ser publicado na Vercel, conectado diretamente ao GitHub. Não necessita de comando de build.
